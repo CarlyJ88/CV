@@ -1,8 +1,12 @@
-## Your Name
+## Carly Jenkinson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After five years of working as an Administrative assistant carrying out various tasks, I craved for a challenge. Once I discovered programming I knew I had found what I had been looking for - now I could exercise my problem solving abilities.
+
+Ideally I would like to work as a full-stack developer because I want to develop a thorough understanding of the impact my actions have so that I can make informed decisions. I would like to grow my skill-set around talented like-minded people (curious, craving challenges, determined, resourceful, creative, asking the right questions/not afraid to ask questions, friendly, quality-driven). I would like to work in a friendly, supportive, nurturing environment which applies test-driven development and agile methodologies. I am interested in web and mobile development.
 
 ## Skills
+
+- to be defined later
 
 #### This Skill
 
@@ -23,28 +27,36 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (04/03/2019 - ongoing)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. (will be provided in blog)
+- Fast, independent learner (https://github.com/CarlyJ88?tab=repositories)
+- Great collaborator (https://github.com/CarlyJ88/fizzbuzz)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### York St John University (09/2008 - 06/2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Psychology
+- was a member of the climbing club and volleyball club and participated in competitions
+
+#### Queen Elizabeth Sixth Form College (09/2005 - 06/2008)
+
+- A level Psychology
+- A level Media Studies
+- Enjoyed making my own music video from scratch including filming, editing, directing and acting in the video
+- A level English Language
+- AS level Film Studies
+- A level Fine Art
 
 #### Any other qualifications
 
+- Driving licence
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Student Loans Company (25/03/2013 - 31/10/2018)    
+Administrative Assistant
