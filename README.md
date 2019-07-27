@@ -1,62 +1,77 @@
-## Carly Jenkinson
+# Carly Jenkinson
 
-After five years of working as an Administrative assistant carrying out various tasks, I craved for a challenge. Once I discovered programming I knew I had found what I had been looking for - now I could exercise my problem solving abilities.
+I am driven towards a career as a Software Engineer by a thirst for creativity, a passion for learning, and a need to use my critical thinking skills to solve problems. My previous role as an Administrative Assistant allowed me to exercise my attention to detail and communication skills, which I can bring with me in my new role as a Software Engineer. I discovered Makers Academy which gave me a place to pratice my skills and get an idea of what it means to be a developer, and now I am ready to begin my new career.
 
-Ideally I would like to work as a full-stack developer because I want to develop a thorough understanding of the impact my actions have so that I can make informed decisions. I would like to grow my skill-set around talented like-minded people (curious, craving challenges, determined, resourceful, creative, asking the right questions/not afraid to ask questions, friendly, quality-driven). I would like to work in a friendly, supportive, nurturing environment which applies test-driven development and agile methodologies. I am interested in web and mobile development.
+## Projects
+|Title | Description | Development Timeframe | Tech Stack | QA/ CI/ CD |
+--- | --- | --- |--- | --- |
+|[Dinnergy](https://github)| My final project at Makers, with a team of six, we set out to build our first mobile app which is a completely new domain and tech stack. Our app is able to access the Google API. Dinnergy aims to provide users with a personalised shopping list based on a tailored list of recipes chosen by the user.| 8 days | Swift, SQLite | XC-Test, Travis CI, Swiftlint|
+|[Bearbook](https://github.com/CarlyJ88/Acebook-The-Brave-Bears) | Week 8 group project which meant building a facebook clone, this time in group of six. This project focused on working in a team whilst using high quality processes to build a product we were proud of. | 9 days |  Ruby on Rails, PostgreSQL | RSpec, Travis CI, Heroku, Rubocop |
+|[Thermostat](https://github.com/CarlyJ88/Thermostat-challenge) | A personal project where I explored using JavaScript and incorparating the Weather API to build a thermostat controller where the therostat temperature can be modified and current temperature of various cities can be shown. | 3 days | JavaScript, HTML, CSS | Jasmine |
 
 ## Skills
 
-- to be defined later
+### Attention to detail
 
-#### This Skill
+My previous role required a high level of accuracy across the various workflows I undertook from validating potential student's identity and residency status to ensuring invoices are paid to suppliers in full and the evidence of this payment being due was satisfactory. 
+- Dealing with large quantities of customer data in a compliant manner.
+- Ensuring data entered is accurate (maintain over 98% accuracy level).
+- Keeping up-to-date with changes to work instructions and policy
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Communication
 
-- Experience
-- Achievements
-- Evidence
+Communcation was a huge part of my role as an Administrative Assistant, on a daily basis I needed to liaise with students, countersignatures, my colleagues, managers and suppliers whether it was via email or over the phone. As I representated the company the way I communicated was crucial to the success of my daily tasks. I undertook some communication training on how to communicate effectively over the telephone, including some training on how to deal with difficult customers. I took this on board and it really helped me be successful in some difficult situations.
 
-#### Another Skill
+### Time management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+In my previous role my productivity was measured on a daily basis so I needed to remain focused and be efficient when changing between tasks while maintaining a high level of accuracy.
 
 ## Education
 
-#### Makers Academy (04/03/2019 - ongoing)
+### Makers Academy (04/03/2019 - 21/06/2019)
 
-- Curious and passionate about code. (will be provided in blog)
+- Curious and passionate about code.
 - Fast, independent learner (https://github.com/CarlyJ88?tab=repositories)
-- Great collaborator (https://github.com/CarlyJ88/fizzbuzz)
+- Great collaborator (https://github.com/CarlyJ88?tab=repositories)
+- Pair programming
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD, BDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, JavaScript, SQL, HTML, CSS, Swift
 - RSpec, Jasmine
+- Ruby on Rails, Node js, Express
+- Version control: Git
 
-#### York St John University (09/2008 - 06/2013)
-
+### York St John University (09/2008 - 06/2013)
 - BSc Psychology
 - was a member of the climbing club and volleyball club and participated in competitions
 
-#### Queen Elizabeth Sixth Form College (09/2005 - 06/2008)
+### Queen Elizabeth Sixth Form College (09/2005 - 06/2008)
 
 - A level Psychology
-- A level Media Studies
-- Enjoyed making my own music video from scratch including filming, editing, directing and acting in the video
+- A level Media Studies (Enjoyed making my own music video from scratch including filming, editing, directing and acting in the video)
 - A level English Language
 - AS level Film Studies
 - A level Fine Art
 
-#### Any other qualifications
-
-- Driving licence
-
 ## Experience
 
-Student Loans Company (25/03/2013 - 31/10/2018)    
-Administrative Assistant
+**Student Loans Company** (25/03/2013 - 31/10/2018)    
+*Administrative Assistant*
+
+As an Administration Assistant I became an expert in the handling of the pre-processing of student loans applications within the Student Loans Company. My main responsibilities were manual processing and data entry of various evidence types such as Passport, Identity cards and Birth Certificate data entry, coupled with proof of residency. Other responsibilities I handled was in the area of customer invoicing and supplier relations where I ensured the quality of payments to customers, and the assurance from our external suppliers.
+
+I was nominated by my team to be the 'Voice' leader. This was a particularly challenging role as it stretched my capabilities and ensured I learned many transferable skills to develop my inter- and intra-team relationships.
+
+During this time I became familiar the Microsoft Office suite, including Word, Excel, and PowerPoint. I also developed strong verbal and written communication as this was the main driver of any customer contact. 
+
+## Interests
+
+- Climbing
+- Yoga
+- Cooking delicious vegan food
+- Experimenting with the latest technologies (currently Docker)
+
+## Any other qualifications
+
+- Driving licence category B
