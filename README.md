@@ -5,7 +5,7 @@ I am driven towards a career as a Software Engineer by a thirst for creativity, 
 ## Projects
 |Title | Description | Development Timeframe | Tech Stack | QA/ CI/ CD |
 --- | --- | --- |--- | --- |
-|[Dinnergy](https://github)| My final project at Makers, with a team of six, we set out to build our first mobile app which is a completely new domain and tech stack. Our app is able to access the Google API. Dinnergy aims to provide users with a personalised shopping list based on a tailored list of recipes chosen by the user.| 8 days | Swift, SQLite | XC-Test, Travis CI, Swiftlint|
+|[Dinnergy](https://github.com/jordantroberts/dinnergy)| My final project at Makers, with a team of six, we set out to build our first mobile app which is a completely new domain and tech stack. Our app is able to access the Google API. Dinnergy aims to provide users with a personalised shopping list based on a tailored list of recipes chosen by the user.| 8 days | Swift, SQLite | XC-Test, Travis CI, Swiftlint|
 |[Bearbook](https://github.com/CarlyJ88/Acebook-The-Brave-Bears) | Week 8 group project which meant building a facebook clone, this time in group of six. This project focused on working in a team whilst using high quality processes to build a product we were proud of. | 9 days |  Ruby on Rails, PostgreSQL | RSpec, Travis CI, Heroku, Rubocop |
 |[Thermostat](https://github.com/CarlyJ88/Thermostat-challenge) | A personal project where I explored using JavaScript and incorparating the Weather API to build a thermostat controller where the therostat temperature can be modified and current temperature of various cities can be shown. | 3 days | JavaScript, HTML, CSS | Jasmine |
 
